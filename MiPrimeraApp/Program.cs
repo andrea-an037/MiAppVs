@@ -12,6 +12,9 @@ namespace MiPrimeraApp
         {
             Console.WriteLine("Hola, este es mi clase de C#");
 
+            Console.WriteLine("Estoy usando git en repo local");
+            Console.WriteLine("Esroy usando github en repo");
+
         }
     }
 }
